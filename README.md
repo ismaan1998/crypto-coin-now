@@ -9,5 +9,7 @@ Learned from a course by  <a href="https://github.com/angelabauer"> Angela Yu</a
 <h2> Screenshot-</h2><br>
 <div>
 <img src="screenshot.png"  width=250, height=512, style="display:inline-block;">
+<img src="demo.gif"  width=250, height=512, style="display:inline-block;">
+
 </div>
 
